@@ -4,5 +4,3 @@
 You probably have one question: Is this mod balanced?
 
 To that I say, no. No it is not.
-
-### (Currently a WIP)
