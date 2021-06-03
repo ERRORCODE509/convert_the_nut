@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "convert_the_nut",
+    "name": "convert_the_nut",
+    "authors": [ "ERROR_CODE"],
+    "description": "Proving that the pine nut is the superior form of nut.",
+    "category": "items",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]
